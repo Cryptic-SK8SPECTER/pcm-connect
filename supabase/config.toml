@@ -1,0 +1,19 @@
+project_id = "lbnmgheyoeggdssbxqip"
+
+[functions.extrair-dados-fatura]
+verify_jwt = false
+
+[functions.analisar-projeto]
+verify_jwt = false
+
+[functions.analisar-projeto-ia]
+verify_jwt = true
+
+[functions.chatbot-ai]
+verify_jwt = false
+
+[functions.n8n-chat-proxy]
+verify_jwt = false
+
+[functions.traduzir-fatura]
+verify_jwt = false
